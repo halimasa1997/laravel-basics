@@ -24,8 +24,10 @@ Route::get('/hello', function () {
 });
 
 ## 🖼️ Output Screenshot
-Here is code example in routes/web.php:
-(routing-output.png/img(1).png)
 
-Here is what the output looks like in your browser:
-(routing-output.png/img(2).png)
+
+Here is code example in routes/web.php:  
+![Code example](<routing-output.png/img(1).png>)
+
+Here is what the output looks like in your browser:  
+![Browser output](<routing-output.png/img(2).png>)
