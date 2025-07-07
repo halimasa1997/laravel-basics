@@ -27,7 +27,7 @@ Route::get('/hello', function () {
 
 
 Here is code example in routes/web.php:  
-(https://github.com/halimasa1997/laravel-basics/blob/basics/routing/routing-output.png/img%20(1).png)
+routing-output.png/img(2).png
 
 Here is what the output looks like in your browser:  
 ![Browser output](<routing-output.png/img(2).png>)
