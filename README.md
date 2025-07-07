@@ -18,15 +18,20 @@ Routing is a fundamental part of Laravel. It allows you to define the URLs (endp
 
 Here’s a simple route defined in `routes/web.php`:
 
-```php
+
 Route::get('/hello', function () {
     return ' Hello My name is Halima and this is Laravel Routing!';
 });
 
----
-🖼️ Output Screenshots
-📄 Code in routes/web.php:
-<p align="center"> <img src="routing-output.png/img(1).png" width="700" alt="Route Code Screenshot"> </p>
-🌐 Output in the browser:
-<p align="center"> <img src="routing-output.png/img2.png" width="700" alt="Browser Output Screenshot"> </p> ```
+## 🖼️ Output Screenshots
+
+### 📄 Code in `routes/web.php`:
+<p align="center">
+  <img src="<routing-output.png/img (1).png>" width="700" alt="Route Code Screenshot">
+</p>
+
+### 🌐 Output in the browser:
+<p align="center">
+  <img src="<routing-output.png/img (2).png>" width="700" alt="Browser Output Screenshot">
+</p>
 
