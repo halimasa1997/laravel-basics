@@ -25,7 +25,7 @@ Route::get('/hello', function () {
 
 ## 🖼️ Output Screenshot
 Here is code example in routes/web.php:
-![Routing Output](./routing-output.png/img(1))
+(routing-output.png/img(1).png)
 
 Here is what the output looks like in your browser:
-![Routing Output](./routing-output.png/img(2))
+(routing-output.png/img(2).png)
