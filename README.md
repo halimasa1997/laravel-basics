@@ -27,12 +27,12 @@ Route::get('/hello', function () {
 
 ### 📄 Code in `routes/web.php`:
 <p align="center">
-  <img src="routing-output.png/img1.png" width="700" alt="Route Code Screenshot">
+  <img src="routing-output.png/img2.png" width="700" alt="Route Code Screenshot">
 </p>
 
 ### 🌐 Output in the browser:
 <p align="center">
-  <img src="routing-output.png/img2.png" width="700" alt="Browser Output Screenshot">
+  <img src="routing-output.png/img1.png" width="700" alt="Browser Output Screenshot">
 </p>
 
 
