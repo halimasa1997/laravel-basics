@@ -22,6 +22,7 @@ Here’s a simple route defined in `routes/web.php`:
 Route::get('/hello', function () {
     return ' Hello My name is Halima and this is Laravel Routing!';
 });
+---
 
 ## 🖼️ Output Screenshot
 
