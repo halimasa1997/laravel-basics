@@ -122,14 +122,6 @@ protected $middleware = [
 - Logging
 - Security checks
 
-## Best Practices
-
-1. Keep middleware focused on a single responsibility
-2. Use descriptive names for middleware aliases
-3. Consider performance impact for global middleware
-4. Test middleware thoroughly as they affect all requests
-5. Use middleware groups for related functionality
-
 
 ## 🛠️ Creating Custom Middleware
 
