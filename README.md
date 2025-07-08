@@ -11,19 +11,6 @@
 
 
 
-
-## 🛠️ Creating Custom Middleware
-
-Use Artisan to generate a new middleware class:
-
-
-php artisan make:middleware EnsureTokenIsValid
-
-
-
-
-https://github.com/halimasa1997/laravel-basics/blob/middleware/middleware
-
 # Middleware in Laravel
 
 ## Definition
