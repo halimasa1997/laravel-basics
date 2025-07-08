@@ -47,7 +47,7 @@ Laravel includes several useful middleware out of the box:
 
 Use Artisan to generate a new middleware class:
 
-```bash
+
 php artisan make:middleware EnsureTokenIsValid
 
 
